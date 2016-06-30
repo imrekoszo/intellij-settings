@@ -1,0 +1,5 @@
+clojure ide
+editor colors
+editor inspection
+key maps
+live templates
